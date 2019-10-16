@@ -3,9 +3,6 @@
 #include "opencv2/cudafilters.hpp"
 #include "opencv2/cudaimgproc.hpp"
 
-#include "windows.h"
-#include "aviriff.h"
-
 using namespace cv;
 using namespace std;
 
