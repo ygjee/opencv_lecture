@@ -1,3 +1,13 @@
+#include "opencv2/opencv.hpp"
+#include "opencv2/core/cuda.hpp"
+#include "opencv2/cudafilters.hpp"
+#include "opencv2/cudaimgproc.hpp"
+
+#include "windows.h"
+#include "aviriff.h"
+
+using namespace cv;
+using namespace std;
 
 int main(int, char)
 {
