@@ -5,7 +5,6 @@
 #include "opencv2/cudaimgproc.hpp"
 
 using namespace cv;
-
 using namespace std;
 
 int main(int, char)
