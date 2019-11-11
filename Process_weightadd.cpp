@@ -21,6 +21,7 @@ int main(int, char)
 	img_add = img + img2;
 
 	subtract(img, img2, img_sub);
+	
 	multiply(img, img2, img_mul);
 	divide(img, img2, img_div);
 
